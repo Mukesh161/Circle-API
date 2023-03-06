@@ -1,0 +1,8 @@
+Circle Home Page: https://www.circle.com/en/
+Sandbox Link: https://app-sandbox.circle.com
+Developer Documents: https://developers.circle.com/developer/docs
+Circle Postman Collections: https://developers.circle.com/developer/docs/postman
+
+Payments API Video: https://www.youtube.com/watch?v=Or8XXdA9So4
+Payouts API Video: https://www.youtube.com/watch?v=1jZucWrqctQ
+Accounts API Video: https://www.youtube.com/watch?v=LbYmcM5_o48
